@@ -284,9 +284,9 @@
       "#2780E6"
     ],
     "INTERACTIVE_HOVER": [
-      "#e22e2e",
-      "#e22e2e",
-      "#e22e2e"
+      "#061428",
+      "#665c54",
+      "#061428"
     ],
     "INTERACTIVE_MUTED": [
       "#3f414c",
@@ -329,9 +329,9 @@
       "#000000"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#ff1f1f",
-      "#ff1f1f",
-      "#ff1f1f"
+      "#fb4934",
+      "#9d0006",
+      "#fb4934"
     ],
     "STATUS_DANGER_TEXT": [
       "#83a598",
@@ -339,9 +339,9 @@
       "#83a598"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#43b581",
-      "#43b581",
-      "#43b581"
+      "#689d6a",
+      "#427b58",
+      "#689d6a"
     ],
     "STATUS_POSITIVE_TEXT": [
       "#dcddde",
@@ -349,9 +349,9 @@
       "#dcddde"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#faa61a",
-      "#faa61a",
-      "#faa61a"
+      "#fab387",
+      "#fab387",
+      "#fab387"
     ],
     "STATUS_WARNING_TEXT": [
       "#fb4934",
@@ -379,9 +379,9 @@
       "#dcddde"
     ],
     "TEXT_MUTED": [
-      "#808080",
-      "#808080",
-      "#808080"
+      "#2678d6",
+      "#2678d6",
+      "#2678d6"
     ],
     "TEXT_NORMAL": [
       "#dcddde",
@@ -394,9 +394,9 @@
       "#689d6a"
     ],
     "TEXT_WARNING": [
-      "#ff3b3b",
-      "#ff3b3b",
-      "#ff3b3b"
+      "#fb4934",
+      "#9d0006",
+      "#cc241d"
     ]
   },
   "rawColors": {
