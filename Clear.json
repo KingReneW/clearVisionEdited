@@ -1,0 +1,40 @@
+{
+  "name": "ClearVision Mobile",
+  "author": "CoolerDude (Ported by ChatGPT)",
+  "description": "Mobile-friendly ClearVision Port",
+  "version": "1.1",
+  "colors": {
+    "accent": "#43b581",
+    "background": "#00000000",
+    "background-secondary": "#00000000",
+    "background-tertiary": "#00000000",
+    "channel-text-area": "#1e1e2f",
+    "chat-background": "#00000000",
+    "mention": "#faa61a",
+    "mention-hover": "#fbbf24",
+    "button-danger": "#f04747",
+    "button-danger-hover": "#ff5c5c",
+    "status-danger": "#f04747",
+    "status-warning": "#faa61a",
+    "status-positive": "#43b581"
+  },
+  "fonts": {
+    "primary": "gg sans",
+    "code": "JetBrains Mono"
+  },
+  "images": {
+    "background": "https://i.imgur.com/O6bIGJv.png",
+    "background-shading": "none",
+    "background-position": "center",
+    "background-size": "cover"
+  },
+  "blur": {
+    "background": 0,
+    "chat": 0
+  },
+  "transparency": {
+    "chat": 1,
+    "popout": 1,
+    "modal": 1
+  }
+}
