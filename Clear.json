@@ -1,15 +1,15 @@
 {
   "name": "ClearVision Mobile",
-  "author": "CoolerDude (Ported by ChatGPT)",
-  "description": "Mobile-friendly ClearVision Port",
-  "version": "1.1",
+  "author": "CoolerDude (ported by ChatGPT)",
+  "description": "Clean mobile-friendly version of ClearVision",
+  "version": "1.0.1",
   "colors": {
     "accent": "#43b581",
-    "background": "#00000000",
-    "background-secondary": "#00000000",
-    "background-tertiary": "#00000000",
-    "channel-text-area": "#1e1e2f",
-    "chat-background": "#00000000",
+    "background": "#2c2f33",
+    "background-secondary": "#23272a",
+    "background-tertiary": "#2c2f33",
+    "channel-text-area": "#2c2f33",
+    "chat-background": "#2c2f33",
     "mention": "#faa61a",
     "mention-hover": "#fbbf24",
     "button-danger": "#f04747",
@@ -18,23 +18,15 @@
     "status-warning": "#faa61a",
     "status-positive": "#43b581"
   },
-  "fonts": {
-    "primary": "gg sans",
-    "code": "JetBrains Mono"
-  },
   "images": {
     "background": "https://i.imgur.com/O6bIGJv.png",
-    "background-shading": "none",
+    "background-shading": "dark",
     "background-position": "center",
     "background-size": "cover"
   },
-  "blur": {
-    "background": 0,
-    "chat": 0
-  },
   "transparency": {
-    "chat": 1,
-    "popout": 1,
-    "modal": 1
+    "chat": 0.85,
+    "popout": 0.9,
+    "modal": 0.95
   }
 }
