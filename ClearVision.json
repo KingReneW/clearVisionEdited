@@ -14,9 +14,9 @@
       "#fb4934"
     ],
     "BACKGROUND_FLOATING": [
-      "#102b47",
-      "#102b47",
-      "#102b47"
+      "#0a0a0a",
+      "#0a0a0a",
+      "#0a0a0a"
     ],
     "BACKGROUND_MENTIONED": [
       "#bdae931a",
@@ -34,14 +34,14 @@
       "#bdae931a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#061428",
-      "#061428",
-      "#061428"
+      "#0a0a0a",
+      "#0a0a0a",
+      "#0a0a0a"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#061428",
-      "#061428",
-      "#061428"
+      "#0a0a0a",
+      "#0a0a0a",
+      "#0a0a0a"
     ],
     "BACKGROUND_ACCENT": [
       "#86b4ea",
@@ -74,9 +74,9 @@
       "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#061428",
-      "#061428",
-      "#061428"
+      "#0a0a0a",
+      "#0a0a0a",
+      "#0a0a0a"
     ],
     "BACKGROUND_SECONDARY": [
       "#242437",
@@ -109,9 +109,9 @@
       "#2780E64d"
     ],
     "CHAT_BACKGROUND": [
-      "#00000099",
-      "#00000099",
-      "#00000099"
+      "#0a0a0a",
+      "#0a0a0a",
+      "#0a0a0a"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#81b6ef",
