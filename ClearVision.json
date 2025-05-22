@@ -14,9 +14,9 @@
       "#fb4934"
     ],
     "BACKGROUND_FLOATING": [
-      "#0a0a0a",
-      "#0a0a0a",
-      "#0a0a0a"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_MENTIONED": [
       "#bdae931a",
@@ -34,14 +34,14 @@
       "#bdae931a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0a0a0a",
-      "#0a0a0a",
-      "#0a0a0a"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#0a0a0a",
-      "#0a0a0a",
-      "#0a0a0a"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_ACCENT": [
       "#86b4ea",
@@ -74,24 +74,24 @@
       "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0a0a0a",
-      "#0a0a0a",
-      "#0a0a0a"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_SECONDARY": [
-      "#242437",
-      "#242437",
-      "#242437"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
-      "#000000",
-      "#000000"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BACKGROUND_TERTIARY": [
-      "#04122e",
-      "#04122e",
-      "#04122e"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
       "#0a2848",
@@ -109,9 +109,9 @@
       "#2780E64d"
     ],
     "CHAT_BACKGROUND": [
-      "#0a0a0a",
-      "#0a0a0a",
-      "#0a0a0a"
+      "#000000cc",
+      "#000000cc",
+      "#000000cc"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#81b6ef",
